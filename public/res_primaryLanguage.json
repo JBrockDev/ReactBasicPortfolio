@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Jonathan Brock. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hey",
+      "description": "I am Jonathan Brock and I'm a Software Engineer. I started out my adult life at the age of 17 entering the Army. I've spent years studying in-depth poker strategy and running simulations to determine statistically correct plays. I've always had a keen interest in automation as humans can only do such much, but our code can do so much more. My eventual goal is to get into Machine Learning or Autonomous vehicles, but I'm currently seeking any opportunities to grow as a Software Engineer. My ideal work environment is one with different teams working with different technologies, so that I can fuel my desire for learning. In the Army, I did a lot of troubleshooting both hardware and software for various systems. I always assumed everyone had good troubleshooting skills, but recently have discovered that I am a huge asset even working with code I don't know well as I am able to find solutions quickly and efficiently. Through poker, I've learned when to take risks, I've learned to read people and I've learned to track patterns.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
