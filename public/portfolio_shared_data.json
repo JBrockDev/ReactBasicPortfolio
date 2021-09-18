@@ -1,17 +1,22 @@
 {
     "basic_info": {
       "name": "Jonathan Brock",
-      "titles": [ "Software Engineer" ],
+      "titles": [ "Software Engineer looking for a career with opportunities to learn many new technologies and work with different teams." ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/JBrockDev",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/jbrockdev/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/JBrockDev",
+          "class": "fab fa-twitter"
         }
       ],
       "image": "myProfile.jpg"
