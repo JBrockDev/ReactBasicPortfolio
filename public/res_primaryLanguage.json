@@ -6,7 +6,7 @@
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Experience & Education"
       }
     },
     "projects": [
@@ -93,37 +93,97 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Western Governors University",
+        "title": "Bachelors of Science: Software Development",
+        "years": "2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "Java"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Java",
+          "PL-SQL",
+          "C++"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Code Fellows Coding Bootcamp",
+        "title": "Student",
+        "years": "2021",
         "mainTech": [
-          "Angular 7/8"
+          "MERN"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "React",
+          "MongoDB",
+          "ExpressJS",
+          "NodeJS",
           "JavaScript",
-          "DHTMLX Gantt"
+          "HTML5"
+        ]
+      },
+      {
+        "company": "Poker",
+        "title": "Professional Poker Player",
+        "years": "2019-2021",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Pattern Recognition",
+          "People Reading",
+          "Probability Calculations",
+          "Risk Management"
+        ]
+      }
+      ,
+      {
+        "company": "Neuberger Berman",
+        "title": ".NET Fullstack Developer",
+        "years": "2018-2019",
+        "mainTech": [
+          ".NET"
+        ],
+        "technologies": [
+          "C#",
+          ".NET",
+          "Web API 2.0",
+          "T-SQL",
+          "JavaScript",
+          "HTML5"
+        ]
+      },
+      {
+        "company": "FDM Group",
+        "title": "Java Consultant",
+        "years": "2018-2019",
+        "mainTech": [
+          ".NET"
+        ],
+        "technologies": [
+          "Java",
+          "C#",
+          ".NET",
+          "Web API 2.0",
+          "T-SQL",
+          "JavaScript",
+          "HTML5"
+        ]
+      },
+      {
+        "company": "Plate Gallery",
+        "title": ".NET Full Stack Developer",
+        "years": "2017",
+        "mainTech": [
+          ".NET"
+        ],
+        "technologies": [
+          "C#",
+          ".NET",
+          "Web API 2.0",
+          "AngularJS",
+          "T-SQL",
+          "JavaScript",
+          "HTML5"
         ]
       }
     ]
