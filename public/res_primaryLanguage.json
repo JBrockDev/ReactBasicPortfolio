@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Plate Gallery",
+        "startDate": "2017",
+        "description": "An MVP e-commerce website for a client looking to sell novelty license plates with upwards of $100,000 price per plate. Created admin back-end with it's own API to ensure security of sensitive data like tokens for various APIs.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/plate-gallery/plate-gallery.png",
+          "images/portfolio/plate-gallery/plate-gallery-2.png"
         ],
         "url": "",
         "technologies": [
@@ -25,39 +25,51 @@
             "name": "Angular"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-dot-net-plain",
+            "name": ".NET"
+          },
+          {
+            "class": "devicon-microsoftsqlserver-plain",
+            "name": "T-SQL"
           },
           {
             "class": "devicon-csharp-plain",
             "name": "C#"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap4"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "8-Bit Blackjack",
+        "startDate": "2021",
+        "description": "A coding bootcamp project created in approximately three days as a team of four utilizing vanilla javascript, html, and css. Requirements were to use local storage and no apis.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/8-bit-blackjack/8-bit-blackjack.png",
+          "images/portfolio/8-bit-blackjack/8-bit-blackjack-2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/TeamSlytherin201/blackjack",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "301 Final Project",
+        "startDate": "2021",
+        "description": "This is the lovely final project created by my 301 team.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
