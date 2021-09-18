@@ -106,22 +106,6 @@
         ]
       },
       {
-        "company": "Poker",
-        "title": "Professional Poker Player",
-        "years": "2019-2021",
-        "mainTech": [
-          ""
-        ],
-        "technologies": [
-          "React",
-          "MongoDB",
-          "ExpressJS",
-          "NodeJS",
-          "JavaScript",
-          "HTML5"
-        ]
-      },
-      {
         "company": "Code Fellows Coding Bootcamp",
         "title": "Student",
         "years": "2021",
@@ -135,6 +119,20 @@
           "NodeJS",
           "JavaScript",
           "HTML5"
+        ]
+      },
+      {
+        "company": "Poker",
+        "title": "Professional Poker Player",
+        "years": "2019-2021",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Pattern Recognition",
+          "People Reading",
+          "Probability Calculations",
+          "Risk Management"
         ]
       }
       ,
