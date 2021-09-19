@@ -1,3 +1,3 @@
 # Modify this portfolio
 
-[Link To Live Deployment](https://jbrockdev-portfolio.netlify.app/)
+[Link To Live Deployment](https://www.jbrockdev.com/)
