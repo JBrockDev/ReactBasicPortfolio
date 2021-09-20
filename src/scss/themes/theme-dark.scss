@@ -3,11 +3,11 @@ body[data-theme="dark"] {
    @import '/src/scss/dark-slider.scss';
 
    .slider-tab {
-      background-color: #8C8C8C;
+      background-color: #105CA1;
    }
 
    .title-styles {
-      color: white;
+      color: #105CA1;
    }
 
    .header-icon {
@@ -16,7 +16,7 @@ body[data-theme="dark"] {
    }
 
    .slider-image {
-      border: 5px solid #8C8C8C;
+      border: 5px solid #105CA1;
    }
 
    .language {
@@ -39,27 +39,27 @@ body[data-theme="dark"] {
       }
    }
 
-   #about {
-      background-color: #7f7f7f;
+   #about, #contact {
+      background-color: #182A48;
       h1 span {
          color: white;
       }
       .polaroid span {
-         background:  #6d6d6d;
+         background:  #2C426A;
       }
       .card {
-         background: #6d6d6d;
+         background: #2C426A;
          color: white;
       }
    }
 
    #portfolio {
-      background: #5b5b5b;
+      background: #182A48;
       .section-title {
          color: white !important;
       }
       .foto div {
-         background: #6d6d6d;
+         background: #2C426A;
       }
       .project-title-settings {
          color: white;
@@ -68,7 +68,7 @@ body[data-theme="dark"] {
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      background: #182A48;
       .section-title {
          color: white !important;
       }
@@ -97,11 +97,15 @@ body[data-theme="dark"] {
    }
 
    .modal-inside .modal-content {
-      background: #5b5b5b;
+      background: #182A48;
       color: white;
    }
 
    .close-icon {
+      color: white;
+   }
+
+   .title-container {
       color: white;
    }
 }
